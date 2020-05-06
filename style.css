@@ -1,0 +1,43 @@
+body{
+    background-color: #fef766;
+}
+table{
+    margin : auto;
+
+}
+.title{ 
+    margin-top: 15%;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto; 
+    padding-left: 82px;
+    padding-right: 82px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align:center; 
+    width: 210px; 
+    color:	#ab3434; 
+    border: dashed black 4px; 
+    font-weight: bold;
+    font-size: 30;
+} 
+
+input[type="button"] 
+{ 
+    background-color: #a3c0c6; 
+    color: black; 
+    border: solid#0a1d32 2px; 
+    font-size: 20;
+    font-weight: bold;
+    width:100%;
+} 
+
+input[type="text"] 
+{ 
+    background-color:#F1FFFB; 
+    border: solid black 2px; 
+    font-size: 40;
+    font-family: 'VT323', monospace;
+    width:100% ;
+}
+
